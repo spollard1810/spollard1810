@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Stephen
+
+## About Me
+Network Engineer @ Exelon, and strong advocator of automation.
+
+## Experience
+Network Engineer @ Exelon
+
+## Projects
+Currently working on some private projects, focused mainly on SSM integration within observability pipelines.
+
+## Contact Me
+email: contact@stephenpollard.dev
 
 <!--
 **spollard1810/spollard1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
