@@ -1,10 +1,10 @@
 ## Hi, I'm Stephen
 
 ## About Me
-Network Engineer @ Exelon, and strong advocator of automation.
+Network Engineer @ GGP, and strong advocator of automation.
 
 ## Experience
-Network Engineer @ Exelon
+Network Engineer @ GGP
 
 ## Projects
 Currently working on some private projects, focused mainly on SSM integration within observability pipelines.
